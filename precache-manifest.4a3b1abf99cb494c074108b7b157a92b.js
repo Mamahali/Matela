@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6cc3b3d8aa628d6f2bedabff0fd43036",
+    "revision": "8c5332b678dc0565ddcde1c99af4c0e4",
     "url": "/Matela/index.html"
   },
   {
-    "revision": "44fcfe683b47b1c08314",
+    "revision": "dd9d8150f04908788c01",
     "url": "/Matela/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Matela/static/js/3.31c88699.chunk.js"
   },
   {
-    "revision": "44fcfe683b47b1c08314",
-    "url": "/Matela/static/js/main.90c1152a.chunk.js"
+    "revision": "dd9d8150f04908788c01",
+    "url": "/Matela/static/js/main.66d68ab1.chunk.js"
   },
   {
     "revision": "8ba9566d876869ccd5a0",
